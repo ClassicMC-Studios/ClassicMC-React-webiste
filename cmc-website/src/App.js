@@ -1,8 +1,8 @@
-import Card from './card.js';
+import CardBugle from './cardBugle.js';
 function App() {
   return (
     <div className="App">
-      <Card/>
+      <CardBugle/>
     </div>
   );
 }
